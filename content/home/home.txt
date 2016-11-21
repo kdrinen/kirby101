@@ -1,0 +1,17 @@
+Title: Home
+
+----
+
+Text: this is my first page WOO!
+
+----
+
+Subtext: 
+
+----
+
+Date: 2016-11-30
+
+----
+
+Featureimage: m10.jpg
